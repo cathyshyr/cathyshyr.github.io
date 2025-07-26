@@ -1,0 +1,9 @@
+// Override default hyperlink colors
+a {
+  color: #1a0dab !important;       // deep blue
+}
+
+a:hover,
+a:focus {
+  color: #1250aa !important;       // darker on hover
+}
