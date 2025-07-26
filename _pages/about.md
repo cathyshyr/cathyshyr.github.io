@@ -28,6 +28,33 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+## About 
+
+I am an Assistant Professor in the Department of Biomedical Informatics, Pediatrics, and Biostatistics at Vanderbilt University Medical Center (VUMC). I received my Ph.D. in Biostatistics at [Harvard University](https://www.hsph.harvard.edu/), where I was advised by [Dr. Giovanni Parmigiani](https://hsph.harvard.edu/profile/giovanni-parmigiani/). I completed my postdoctoral training in Biomedical Informatics at VUMC with [Dr. Paul Harris](https://www.vumc.org/dbmi/person/paul-harris-phd-facmi-fiahsi).
+
+Previously, I received my M.S. in Biostatistics from Harvard T.H. Chan School of Public Health and B.S. in Statistics from University of California, Davis.
+
+---
+
+- <i class="ai ai-orcid"></i> [ORCiD: 0000-0001-7466-0034](https://orcid.org/0000-0001-7466-0034)  
+- <i class="ai ai-google-scholar"></i> [Google Scholar](https://scholar.google.com/citations?user=GiNkJ1cAAAAJ&hl=en&oi=ao)  
+- <i class="fab fa-github"></i> [GitHub](https://github.com/cathyshyr)  
+- <i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/cathy-shyr-59a40657/)  
+- <i class="fas fa-link"></i> [VUMC Homepage]([https://www.your.unc.edu/page](https://www.vumc.org/dbmi/person/cathy-shyr-phd))
+
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
+
+announcements:
+  enabled: false # includes a list of news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: false
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
+---
 
 
 <!--
