@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cathyshyr.github.io/al-folio/sitemap.xml
+Sitemap: https://cathyshyr.github.io/sitemap.xml
