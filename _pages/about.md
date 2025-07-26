@@ -8,10 +8,10 @@ profile:
   align: right
   image: Shyr_Headshot.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>2525 West End Avenue</p>
-    <p>Suite 1475</p>
-    <p>Nashville, TN 37203</p>
+  more_info: |
+    2525 West End Avenue
+    Suite 1475
+    Nashville, TN 37203
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
