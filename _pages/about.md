@@ -26,11 +26,13 @@ latest_posts:
   enabled: false
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+  
 ---
 
 I am an Assistant Professor in the Department of [Biomedical Informatics at Vanderbilt University Medical Center (VUMC)](https://www.vumc.org/dbmi/) with secondary appointments in the Department of Pediatrics and Biostatistics. I received my Ph.D. in [Biostatistics at Harvard University](https://hsph.harvard.edu/department/biostatistics/), where I was advised by [Dr. Giovanni Parmigiani](https://hsph.harvard.edu/profile/giovanni-parmigiani/). I completed my postdoctoral training in Biomedical Informatics at VUMC with [Dr. Paul Harris](https://www.vumc.org/dbmi/person/paul-harris-phd-facmi-fiahsi).
 
 I specialize in statistical machine learning (ML), artificial intelligence (AI), and methods for estimating personalized treatment effects. My research focuses on the development and application of novel statistical ML and AI methods to advance precision medicine and accelerate diagnosis for patients with rare diseases. 
+
 ---
 
 - <i class="ai ai-orcid"></i> [ORCiD: 0000-0001-7466-0034](https://orcid.org/0000-0001-7466-0034)  
