@@ -28,9 +28,21 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Assistant Professor in the Department of [Biomedical Informatics at Vanderbilt University Medical Center (VUMC)](https://www.vumc.org/dbmi/) with secondary appointments in the Department of Pediatrics and Biostatistics. I received my Ph.D. in [Biostatistics at Harvard University](https://hsph.harvard.edu/department/biostatistics/), where I was advised by [Dr. Giovanni Parmigiani](https://hsph.harvard.edu/profile/giovanni-parmigiani/). I completed my postdoctoral training in Biomedical Informatics at VUMC with [Dr. Paul Harris](https://www.vumc.org/dbmi/person/paul-harris-phd-facmi-fiahsi).
+**Welcome to the Shyr Lab.**
 
-I specialize in statistical machine learning (ML), artificial intelligence (AI), and methods for estimating personalized treatment effects. My research focuses on the development and application of novel statistical ML and AI methods to advance precision medicine and accelerate diagnosis for patients with rare diseases.
+The Shyr Lab develops, evaluates, and implements novel statistical machine learning and artificial intelligence methods to advance precision medicine. Our work brings together biostatistics and biomedical informatics to address clinically important problems using rigorous and reproducible methods.
+
+Our main research areas include:
+
+1. **Trustworthy clinical AI for rare and undiagnosed diseases:** developing large language model and machine learning methods for clinical phenotyping, diagnostic reasoning, and earlier diagnosis, including applications within the Undiagnosed Diseases Network.
+2. **Causal machine learning for precision medicine:** developing methods for multi-study data integration, heterogeneous treatment effect estimation, and personalized treatment decisions.
+3. **Generalizable biomedical machine learning:** creating methods that remain reliable across heterogeneous datasets, patient populations, and clinical settings.
+
+## About the PI
+
+Cathy Shyr, Ph.D., is an Assistant Professor in the [Department of Biomedical Informatics at Vanderbilt University Medical Center](https://www.vumc.org/dbmi/), with secondary appointments in the Department of Pediatrics and the Department of Biostatistics.
+
+She received her Ph.D. in [Biostatistics at Harvard University](https://hsph.harvard.edu/department/biostatistics/), where she was advised by [Dr. Giovanni Parmigiani](https://hsph.harvard.edu/profile/giovanni-parmigiani/). She completed her postdoctoral training in Biomedical Informatics at Vanderbilt University Medical Center with [Dr. Paul Harris](https://www.vumc.org/dbmi/person/paul-harris-phd-facmi-fiahsi).
 
 ---
 
