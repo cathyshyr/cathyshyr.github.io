@@ -1,28 +1,16 @@
 ---
-layout: profiles
+layout: page
 permalink: /people/
-title: people
-description: members of the lab or group
-nav: false
-nav_order: 7
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+title: lab members
+description: Members of the Shyr Lab
+nav: true
+nav_order: 1
 ---
+
+## Principal Investigator
+
+### Cathy Shyr, Ph.D.
+
+Assistant Professor in Biomedical Informatics, with secondary appointments in the Pediatrics and Biostatistics, at Vanderbilt University Medical Center.
+
+[Email](mailto:cathy.shyr@vumc.org) · [Google Scholar](https://scholar.google.com/citations?user=GiNkJ1cAAAAJ&hl=en&oi=ao) · [VUMC Profile](https://www.vumc.org/dbmi/person/cathy-shyr-phd)
