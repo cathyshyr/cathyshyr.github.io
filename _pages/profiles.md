@@ -1,8 +1,7 @@
 ---
 layout: page
 permalink: /people/
-title: lab members
-description: Members of the Shyr Lab
+title: Lab Members
 nav: true
 nav_order: 1
 ---
